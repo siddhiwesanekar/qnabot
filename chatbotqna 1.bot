@@ -1,0 +1,18 @@
+{
+    "name": "chatbotqna 1",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "6027d340-6d40-11ec-a614-4b31b1e7c03f",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\siddh\\Downloads\\smartbotplm-bot-src (1)\\chatbotqna 1.bot",
+    "overrides": null
+}
